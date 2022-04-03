@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+.Flex-Box {
+  display: flex;
+  flex-direction: column;
+}
+.Flex-Box div {
+  justify-content: flex-start;
+}
+.folder {
+  font-weight: bold;
+}
+
+.file {
+  margin-left: 20px;
+}
